@@ -1,7 +1,7 @@
 {
   "name": "try-npm-package-from-submodule",
   "description": "Trying to reproduce an npm bug.",
-  "version": "0.0.8-0",
+  "version": "0.1.0",
   "main": "main.js",
   "bin": {
     "bit-docs": "./bin/bit-docs"
